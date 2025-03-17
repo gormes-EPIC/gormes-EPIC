@@ -1,2 +1,1 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gormes-EPIC&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-gormes-EPIC)
