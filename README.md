@@ -5,7 +5,7 @@ Hello! My name is Gwyneth Ormes and I am a computer science teacher at EPIC Camp
 
 ## Open Source Assignments
 
-<a href="https://gormes-epic.github.io/"> <button>Click Me</button> </a>
+Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>Click Here!</button> </a>
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gormes-EPIC&show_icons=true&theme=radical)
