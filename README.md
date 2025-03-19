@@ -28,4 +28,5 @@ Hello! My name is Gwyneth Ormes and I am a computer science teacher at EPIC Camp
   <img src="/icons/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
   <img src="/icons/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
   <img src="/icons/datascience.svg" alt="ds" style="vertical-align:top; margin:4px">
+  <img src="/icons/raspberrypi.svg" alt="rpi" style="vertical-align:top; margin:4px">
 </p>
