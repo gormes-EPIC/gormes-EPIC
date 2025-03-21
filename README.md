@@ -64,4 +64,5 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
 ## :octocat: Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gormes-EPIC&show_icons=true&show_icons=true&theme=radical)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gormes-EPIC" alt="gormes-EPIC" /> </p>
 
