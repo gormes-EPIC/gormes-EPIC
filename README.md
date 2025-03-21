@@ -1,11 +1,10 @@
 ```                   
-H)    hh  O)oooo  W)      ww D)dddd   Y)    yy 
-H)    hh O)    oo W)      ww D)   dd   Y)  yy  
-H)hhhhhh O)    oo W)  ww  ww D)    dd   Y)yy   
-H)    hh O)    oo W)  ww  ww D)    dd    Y)    
-H)    hh O)    oo W)  ww  ww D)    dd    Y)    
-H)    hh  O)oooo   W)ww www  D)ddddd     Y)    
-
+|  T  T /   \ |  T__T  T|   \  |  T  T
+|  l  |Y     Y|  |  |  ||    \ |  |  |
+|  _  ||  O  ||  |  |  ||  D  Y|  ~  |
+|  |  ||     |l  `  '  !|     |l___, |
+|  |  |l     ! \      / |     ||     !
+l__j__j \___/   \_/\_/  l_____jl____/ 
 ```
 ## About Me
 
