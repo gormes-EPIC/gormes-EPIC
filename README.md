@@ -53,7 +53,7 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
 
 ## :computer: Languages and Tools
 <p align="center">
-  <img src="/images/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="/images/python.svg" alt="python" style="vertical-align:top; width:4px">
   <img src="/images/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/images/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="/images/css.svg" alt="css3" style="vertical-align:top; margin:4px">
