@@ -1,12 +1,11 @@
 ```                   
-  ##  ##  #####   ##   ##  ####   ##  ## 
- ##   ## ###  ##  ##   ##  ## ## ##   ## 
- ##  ##  ##   ##  ##   ## ##  ## ##  ##  
- ######  ##   ## ##   ##  ##  ##  #####  
-##  ##  ##   ##  ## # ## ##   ##    ##   
-##  ##  ##   ##  ### ### ##  ##     ##   
-##  ##   #####   ##   ## #####  ## ##    
- #                               ###
+H)    hh  O)oooo  W)      ww D)dddd   Y)    yy 
+H)    hh O)    oo W)      ww D)   dd   Y)  yy  
+H)hhhhhh O)    oo W)  ww  ww D)    dd   Y)yy   
+H)    hh O)    oo W)  ww  ww D)    dd    Y)    
+H)    hh O)    oo W)  ww  ww D)    dd    Y)    
+H)    hh  O)oooo   W)ww www  D)ddddd     Y)    
+
 ```
 ## About Me
 
