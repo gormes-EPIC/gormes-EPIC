@@ -56,7 +56,7 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
   <img src="/images/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="/images/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/images/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="/images/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="/images/css.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="/images/c-original.svg" alt="c" style="vertical-align:top; margin:4px">
   <img src="/images/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px">
   <img src="/images/git.svg" alt="git" style="vertical-align:top; margin:4px">
