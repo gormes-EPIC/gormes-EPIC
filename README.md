@@ -22,23 +22,23 @@ ____    __    ____  ______   .______       __       _______   __
  ```python
  class WhoAmI:
  	user = 'Gwyneth Ormes'
-		current_work = 'Software Engineering Teacher'
-  employer = 'EPIC Campus'
-		hobbies_and_interests = [
-				'Star Wars',
-				'Sewing and Fibercrafts',
-    'Listening to Music',
-				'Reading Sci-Fi Novels'
-			]
+	current_work = 'Software Engineering Teacher'
+  	employer = 'EPIC Campus'
+	hobbies_and_interests = [
+		'Star Wars',
+		'Sewing and Fibercrafts'
+		'Listening to Music',
+		'Reading Sci-Fi Novels'
+	]
 	
 	def getCity():
 		return Litteton_Colorado()
 	
 	def HopesAndDreams():
-  BecomeABetterTeacher()
-  LearnFullStacKDevelopment()
+ 		BecomeABetterTeacher()
+  		LearnFullStacKDevelopment()
 		DiscoverTheNextGreatQuantumComputingAlgorithm()
-  ...
+  		...
  ```
 
 
