@@ -1,3 +1,5 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ```                   
  __    __   _______  __       __        ______   
 |  |  |  | |   ____||  |     |  |      /  __  \  
@@ -14,7 +16,6 @@ ____    __    ____  ______   .______       __       _______   __
     \__/  \__/     \______/  | _| `._____||_______||_______/ (__) 
 
 ```
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## About Me
 
