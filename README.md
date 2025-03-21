@@ -53,14 +53,14 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
 
 ## :computer: Languages and Tools
 <p align="center">
-  <img src="/icons/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="/icons/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="/icons/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="/icons/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-  <img src="/icons/c-original.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="/icons/cpp.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="/icons/git.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="/icons/kotlin.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="/icons/sql.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/images/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="/images/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="/images/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="/images/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="/images/c-original.svg" alt="c" style="vertical-align:top; margin:4px">
+  <img src="/images/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px">
+  <img src="/images/git.svg" alt="git" style="vertical-align:top; margin:4px">
+  <img src="/images/kotlin.svg" alt="kotlin" style="vertical-align:top; margin:4px">
+  <img src="/images/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
 </p>
 
