@@ -42,6 +42,9 @@ def HopesAndDreams():
 
 Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>Click Here!</button> </a>
 
+
+## Interests
+
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gormes-EPIC&show_icons=true&theme=radical)
 
@@ -54,17 +57,10 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
   <img src="/icons/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/icons/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="/icons/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-  <img src="/icons/r.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="/icons/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-	C++
-	C
+  <img src="/icons/c-original.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/icons/cpp.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/icons/git.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/icons/kotlin.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="/icons/sql.svg" alt="r" style="vertical-align:top; margin:4px">
 </p>
 
-## Interests
-<p align="center">
-  <img src="/icons/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-  <img src="/icons/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
-  <img src="/icons/datascience.svg" alt="ds" style="vertical-align:top; margin:4px">
-  <img src="/icons/raspberrypi.svg" alt="rpi" style="vertical-align:top; margin:4px">
-Quantum Computing and Cryptography
-</p>
