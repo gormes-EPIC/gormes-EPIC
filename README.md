@@ -1,4 +1,4 @@
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ```                   
  __    __   _______  __       __        ______   
@@ -14,40 +14,29 @@ ____    __    ____  ______   .______       __       _______   __
   \            /  |  |  |  | |      /     |  |     |  |  |  ||  | 
    \    /\    /   |  `--'  | |  |\  \----.|  `----.|  '--'  ||__| 
     \__/  \__/     \______/  | _| `._____||_______||_______/ (__) 
-
 ```
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Gwyneth Ormes'
-		current_work = 'Software Engineering Teacher'
-  	employer = 'EPIC Campus'
+```python
+class WhoAmI:
+	user = 'Gwyneth Ormes'
+	current_work = 'Software Engineering Teacher'
+	employer = 'EPIC Campus'
 	hobbies_and_interests = [
 		'Star Wars',
 		'Sewing and Fibercrafts'
 		'Listening to Music',
 		'Reading Sci-Fi Novels'
-	]
+		]
 	
-	def getCity():
-		return Litteton_Colorado()
+def getCity():
+	return Litteton_Colorado()
 	
-	def HopesAndDreams():
- 		BecomeABetterTeacher()
-  		LearnFullStacKDevelopment()
-			DiscoverTheNextGreatQuantumComputingAlgorithm()
-  		...
+def HopesAndDreams():
+	BecomeABetterTeacher()
+	LearnFullStacKDevelopment()
+	DiscoverTheNextGreatQuantumComputingAlgorithm()
+	...
  ```
-
-
-## About Me
-
-Hello! My name is Gwyneth Ormes and I am a computer science teacher at EPIC Campus!
-
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-
 
 ## Open Source Assignments
 
@@ -67,12 +56,9 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
   <img src="/icons/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
   <img src="/icons/r.svg" alt="r" style="vertical-align:top; margin:4px">
   <img src="/icons/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+	C++
+	C
 </p>
-
- 
-## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
 
 ## Interests
 <p align="center">
@@ -80,4 +66,5 @@ Interested in my assignments? <a href="https://gormes-epic.github.io/"> <button>
   <img src="/icons/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
   <img src="/icons/datascience.svg" alt="ds" style="vertical-align:top; margin:4px">
   <img src="/icons/raspberrypi.svg" alt="rpi" style="vertical-align:top; margin:4px">
+Quantum Computing and Cryptography
 </p>
