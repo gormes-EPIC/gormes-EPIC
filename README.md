@@ -34,7 +34,7 @@ def getCity():
 def HopesAndDreams():
 	BecomeABetterTeacher()
 	LearnFullStacKDevelopment()
-	DiscoverTheNextGreatQuantumComputingAlgorithm()
+	DiscoverAQuantumComputingAlgorithm()
 	...
  ```
 ## 💻 Languages and Tools
